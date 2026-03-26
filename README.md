@@ -1,0 +1,2 @@
+# DESENVOLVIMENTO-DE-UM-SISTEMA-DE-MONITORAMENTO-DE-TEMPERATURA-E-UMIDADE-COM-ESP8266-
+O projeto desenvolve um sistema de monitoramento de temperatura e umidade com ESP8266. As medições são feitas a cada 5 minutos, com registro de data e horário. Os dados são enviados a uma planilha online no Google Sheets e armazenados em cartão SD, permitindo acompanhamento remoto e garantindo segurança no registro das informações.
